@@ -1,0 +1,5 @@
+opx-sdi-sys (1.0.1) main; urgency=medium
+
+  * Initial release
+
+ -- Mellanox Team <system-sw-openswitch@mellanox.com>  Wed, 11 Jan 2017 17:11:21 +0200
